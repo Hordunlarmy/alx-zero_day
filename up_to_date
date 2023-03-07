@@ -1,0 +1,7 @@
+Command used to get all changes from main branch:
+git fetch origin
+git pull origin master
+git push origin master
+
+command used to create "up_to_date" file:
+cat > up_to_date
